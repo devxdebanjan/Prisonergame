@@ -1,5 +1,5 @@
 ## AIM: <br>
-The goal was to build a client server architecture through <b><i>multithreaded socket programming</i></b> where any number of prisoners (or clients) could connect to the server and through random guesses and get out of the prison (or program).
+The goal was to build a client server architecture through <b><i>multithreaded socket programming</i></b> where any number of prisoners (or clients) could connect to the server and through random guesses get out of the prison (or program).
 <br><br>
 
 ## LANGUAGE:
