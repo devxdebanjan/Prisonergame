@@ -27,5 +27,5 @@ the execution and provide you the escape order.
 
 For any other discrepancies, please hit me up on my [email](debanjannaskar1@gmail.com)
 
-PLease leave a follow and if found this helpful<br>
+PLease leave a follow and if you found this helpful<br>
 Thank you✨
